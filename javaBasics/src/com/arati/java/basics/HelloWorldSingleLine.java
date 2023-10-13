@@ -1,11 +1,15 @@
 /**
+ * This class (HelloWorldSingleLine.java) is
+ * created by ARATI-KOLTE 
+ * on 14-Oct-2023
  * 
  */
 package com.arati.java.basics;
 
 /**
- * 
+ * @author ARATI-KOLTE
  */
+
 public class HelloWorldSingleLine {
 
 	/**

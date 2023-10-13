@@ -1,12 +1,15 @@
 /**
- * Author: ARATI-KOLTE
- * Created: 14-Oct-2023
+ * This class (PrintPattern3.java) is
+ * created by ARATI-KOLTE 
+ * on 14-Oct-2023
+ * 
  */
 package com.arati.java.basics;
 
 /**
- * 
+ * @author ARATI-KOLTE
  */
+
 public class PrintPattern3 {
 
 	/**
