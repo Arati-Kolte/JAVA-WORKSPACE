@@ -20,7 +20,7 @@ public class DataTypeExamples {
 		int number;
 		
 		number = 10;
-		System.out.println("Initisual Value - " + number + " Araticha mendu gudghyat aahe" + " Zavu ka tula");
+		System.out.println("Initisual Value - " + number );
 		
 		System.out.println("++ " + (number + number));
 		System.out.println("original value-" + number);

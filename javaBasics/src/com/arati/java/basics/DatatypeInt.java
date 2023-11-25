@@ -8,6 +8,8 @@ package com.arati.java.basics;
  */
 public class DatatypeInt {
 
+	
+
 	/**
 	 * @param args
 	 */
@@ -23,7 +25,9 @@ public class DatatypeInt {
 		System.out.println("original value -" + number);
 		
 		number = number + number;
+		
 		System.out.println("sum = "  + number);
+		
 		
 
 	}

@@ -33,7 +33,7 @@ public class SubstractionDemo {
 		double num4 = num2 - num3;
 		
 		System.out.println("sub of " + num2 + " and " + num3 + " = " + num4);
-		
+		//num2  - num3 gets 9.6 but converting into int(.6)removes and ans will get only 9
 		int num10 = (int) (num2 - num3);
 		
 		System.out.println("sub of point number in int " + num2 + " and " + num3 + " = " + num10);
